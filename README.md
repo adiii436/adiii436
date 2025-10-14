@@ -35,17 +35,17 @@
 ![FullStack](https://img.shields.io/badge/FullStack-Development-orange?style=for-the-badge&logo=angular)
 
 ## 📫 How to Reach Me
-[![Email](https://img.shields.io/badge/Email-dhiraj.jadhav9767@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:dhiraj.jadhav9767@gmail.com)
+[![Email](https://img.shields.io/badge/Email-adityalokhande1204@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:adityalokhande1204@gmail.com)
 
 ---
 
 ## 🤝 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhiraj-jadhav-80" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Dhiraj%20Jadhav-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/aditya-lokhande-280307327" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Lokhande-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/dhiraj-jadhav3121" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-dhiraj--jadhav3121-black?style=for-the-badge&logo=github" />
+  <a href="https://github.com/adiii436" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-adiii436-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
@@ -60,29 +60,29 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhiraj-jadhav3121&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj-jadhav3121&layout=compact&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adiii436&show_icons=true&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiii436&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhiraj-jadhav3121&theme=radical&margin-w=15&margin-h=15&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=adiii436&theme=radical&margin-w=15&margin-h=15&row=1" />
 </p>
 
 ---
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhiraj-jadhav3121&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adiii436&theme=radical" />
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhiraj-jadhav3121&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adiii436&theme=react-dark&hide_border=true" />
 </p>
 
 ---
