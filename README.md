@@ -1,90 +1,220 @@
-<!-- Typing SVG Intro -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Aditya+Lokhande;" />
-</h1>
+<!-- 🌙 MOON / NIGHT SKY HEADER -->
 
-<h3 align="center">🚀 A Passionate FullStack Developer from India 🇮🇳</h3>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:312e81,100:581c87&text=Aditya%20Lokhande&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descSize=20&animation=twinkling" />
 
-<p align="center">
-  <!-- Profile Views Badge -->
-  <img src="https://komarev.com/ghpvc/?username=adiii436&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
-</p>
+<br>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adiii436&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiii436&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3500&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=🌙+Code+Under+the+Moonlight;💻+Java+Full+Stack+Developer;🚀+Building+Real-World+Applications;💼+Working+on+a+Live+Project;✨+Learn+%7C+Build+%7C+Improve" />
 
-...
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=adiii436&label=PROFILE%20VIEWS&color=312e81&style=for-the-badge" />
+
+</div>
 
 ---
 
-## 🔭 Currently Working On
-![Working On](https://img.shields.io/badge/Working%20On-The%20Kiran%20Academy-yellow?style=for-the-badge)
+# 🌙 About Me
 
-## 🌱 Currently Learning
-![Spring Boot](https://img.shields.io/badge/Learning-SpringBoot-brightgreen?style=for-the-badge&logo=spring)
-![Microservices](https://img.shields.io/badge/Learning-Microservices-blue?style=for-the-badge&logo=docker)
-![DSA](https://img.shields.io/badge/Learning-DSA-orange?style=for-the-badge&logo=leetcode)
+```text
+👋 Hi, I'm Aditya Lokhande.
 
-## 💬 Ask Me About
-![Java](https://img.shields.io/badge/Java-Ask%20Me-blue?style=for-the-badge&logo=java)
-![FullStack](https://img.shields.io/badge/FullStack-Development-orange?style=for-the-badge&logo=angular)
+🎓 B.Tech Information Technology Student
+💻 Java Full Stack Developer
+💼 Java Full Stack Developer Intern at Paarsh Infotech Pvt. Ltd.
+🚀 Currently working on a real-world live project
+🌱 Continuously learning Full Stack Development
+🇮🇳 Based in India
+```
 
-## 📫 How to Reach Me
-[![Email](https://img.shields.io/badge/Email-adityalokhande1204@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:adityalokhande1204@gmail.com)
-
----
-
-## 🤝 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/aditya-lokhande-280307327" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Lokhande-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/adiii436" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-adiii436-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+I enjoy turning ideas into practical web applications and learning new
+technologies by building real-world projects.
 
 ---
 
-## 🛠 Languages and Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,react,nodejs,python,mysql,hibernate,git,github,html,css,js,ts" />
-</p>
+# 💼 Professional Experience
+
+### 🚀 Java Full Stack Developer Intern
+
+**Paarsh Infotech Pvt. Ltd.**
+
+Currently working on a **live project** and gaining hands-on experience in professional software development.
+
+**What I'm working with:**
+
+* 🔹 Real-world application development
+* 🔹 Feature implementation
+* 🔹 Bug fixing and debugging
+* 🔹 Git & GitHub collaboration
+* 🔹 Frontend and backend development
+* 🔹 Database integration
+* 🔹 Understanding professional development workflows
+
+> 🔐 Company source code and confidential project information are not publicly shared.
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adiii436&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiii436&layout=compact&theme=tokyonight" height="180em"/>
-</p>
+# 🚀 Featured Project
+
+## 💰 Expense Tracker Web Application
+
+A web application designed to help users **manage, track and analyze their daily expenses**.
+
+### ✨ Features
+
+* 💵 Add and manage expenses
+* 🗑️ Delete expenses
+* 🏷️ Category-wise expense tracking
+* 📅 Monthly expense tracking
+* 📊 Expense reports
+* 📈 Charts and dashboard
+* 💾 Database integration
+* 📱 Responsive user interface
+
+### 🛠️ Technologies
+
+`React.js` `JavaScript` `HTML` `CSS` `MongoDB Atlas`
+
+> 🚧 Project is currently being developed and improved.
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adiii436&theme=radical&margin-w=15&margin-h=15&row=1" />
-</p>
+# 🧠 Currently Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Spring%20Boot-Learning-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-Learning-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/DSA-Learning-F97316?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/Full%20Stack-Development-8B5CF6?style=for-the-badge&logo=react&logoColor=white" />
+
+</div>
 
 ---
 
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adiii436&theme=radical" />
-</p>
+# 🛠️ Tech Universe
+
+### 💻 Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,javascript,python,html,css" />
+
+</div>
+
+### ⚛️ Frontend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,html,css,js" />
+
+</div>
+
+### ☕ Backend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate" />
+
+</div>
+
+### 🗄️ Database
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+</div>
+
+### 🔧 Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
+
+</div>
 
 ---
 
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adiii436&theme=react-dark&hide_border=true" />
-</p>
+# 🌌 My Projects
+
+| Project                       | Technologies               | Description                                 |
+| ----------------------------- | -------------------------- | ------------------------------------------- |
+| 💰 **Expense Tracker**        | React, JavaScript, MongoDB | Expense management and tracking application |
+| 🤖 **Real Estate Chatbot**    | Python, ML                 | AI-based real estate chatbot                |
+| 🏋️ **Gym Management System** | HTML, CSS, PHP             | Web application for gym management          |
+| 🎮 **Tic Tac Toe**            | HTML, CSS, JavaScript      | Interactive browser game                    |
 
 ---
 
-✨ _"Code. Learn. Build. Repeat."_ 🚀
+# 📊 GitHub Universe
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=adiii436&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiii436&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+
+</div>
+
+---
+
+# 🔥 Coding Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adiii436&theme=tokyonight&hide_border=true&border_radius=15" />
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=adiii436&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+---
+
+# 🌠 Contribution Galaxy
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adiii436&bg_color=0f172a&color=7dd3fc&line=8b5cf6&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:adityalokhande1204@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/aditya-lokhande-280307327/">
+<img src="https://img.shields.io/badge/LinkedIn-Aditya%20Lokhande-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/adiii436">
+<img src="https://img.shields.io/badge/GitHub-adiii436-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌙 *"The best code is written when curiosity meets consistency."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:581c87,50:312e81,100:0f172a" />
+
+</div>
