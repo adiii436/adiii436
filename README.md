@@ -149,33 +149,13 @@ A web application designed to help users **manage, track and analyze their daily
 
 ---
 
-# 📊 GitHub Universe
+# 🌌 GitHub Universe
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adiii436&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=adiii436&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiii436&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
-
-</div>
-
----
-
-# 🔥 Coding Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adiii436&theme=tokyonight&hide_border=true&border_radius=15" />
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=adiii436&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiii436&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 
 </div>
 
@@ -185,7 +165,21 @@ A web application designed to help users **manage, track and analyze their daily
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adiii436&bg_color=0f172a&color=7dd3fc&line=8b5cf6&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adiii436&theme=react-dark&hide_border=true&area=true" alt="Aditya's GitHub Activity Graph" />
+
+</div>
+
+---
+
+# 🌙 GitHub Journey
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Building-Real%20World%20Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Learning-Full%20Stack-0EA5E9?style=for-the-badge&logo=react&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Currently%20Working-Paarsh%20Infotech-4F46E5?style=for-the-badge&logo=java&logoColor=white" />
 
 </div>
 
